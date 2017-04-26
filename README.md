@@ -5,7 +5,7 @@ The Interface of Crime Viewer is designed to allow users the ability to visualiz
 
 ![Interface 1](https://github.com/atangeman/crime-viewer/blob/master/img/Interface1.PNG?raw=true)
 
-![Interface 2](https://github.com/atangeman/crime-viewer/tree/master/img/Interface2.PNG?raw=true)
+![Interface 2](https://github.com/atangeman/crime-viewer/blob/master/img/Interface2.PNG?raw=true)
 
 ## Purpose 
 
