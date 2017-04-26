@@ -3,9 +3,9 @@ Processing-2 / Java application built to visualize crime data in a temporal and 
 
 The Interface of Crime Viewer is designed to allow users the ability to visualize crime data in a temporal and spatial way. Attributes are pulled from a table and projected into a 2D plane (located on the right hand side), which is divided into four quadrants. Each state is visualized as a bubble, which is sized according to value, and colored according to the quadrant within which it resides. The colors in each of the bubbles are then projected back onto the map to allow users to readily identify areas of high/low values that correspond to positions within the X and Y coordinate plane. 
 
-![Interface 1](/img/Interface1.PNG)
+![Interface 1](https://github.com/atangeman/crime-viewer/tree/master/img/Interface1.PNG)
 
-![Interface 2](/img/Interface2.PNG)
+![Interface 2](https://github.com/atangeman/crime-viewer/tree/master/img/Interface2.PNG)
 
 ## Purpose 
 
